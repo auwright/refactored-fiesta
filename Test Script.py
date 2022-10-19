@@ -74,7 +74,8 @@ mylistVT = ["Null", "ANull"]
 mylistVA = ["Null", "ANull"]
 
 mylistWA = ["Wenas Lake",
-          "Null"]
+          "Crescent Lake",
+          "Freshwater Bay"]
 
 mylistWV = ["Null", "ANull"]
 mylistWI = ["Null", "ANull"]
