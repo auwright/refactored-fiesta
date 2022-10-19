@@ -27,7 +27,8 @@ mylistOR = ["Clear Lake",
           "Wickiup Reservior"]
 
 mylistWA = ["Wenas Lake",
-          "Null"]
+          "Crescent Lake",
+          "Freshwater Bay"]
 
 mylistFL.sort()
 print('FL')
